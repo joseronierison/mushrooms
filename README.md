@@ -7,10 +7,11 @@ Finds attribute with more information gain (IG) and show correlation of value in
 https://archive.ics.uci.edu/ml/datasets/Mushroom
 
 ## Output
+Here is main informations as group entropy and value of attribute with larger information gain.
 
-### Group Entropy: 0.9968038285222955
+### Group Entropy: 0.9968
 
-### odor:
+## odor:
 
 #### ALMOND:
 
