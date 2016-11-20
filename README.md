@@ -1,5 +1,10 @@
 # mushrooms :D
-Mushrooms data analises
+Mushrooms data analises. 
+
+Finds attribute with more information gain (IG) and show correlation of value in each attribute.
+
+## Database source
+https://archive.ics.uci.edu/ml/datasets/Mushroom
 
 ## Output
 
