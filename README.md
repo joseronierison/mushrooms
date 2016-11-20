@@ -4,6 +4,7 @@ Mushrooms data analises
 ## Output
 
  Group Entropy: 0.9968038285222955
+
  odor:
   *In ALMOND:*
     - Correlation: 0.00249
